@@ -1,52 +1,47 @@
-et nu:===
-the new issue
-the new issue
-second time insert
-stash the bug
-add a merge
-second time insert
-stash the bug
-add a merge
-===========
-===========
-===========
-===========
-===========
-===========
-===========
-===========
-===========
-===========
-===========
-===========
-===========
-===========
-===========
-===========
-===========
-===========
-===========
-"4	LINE	0
-	<<<<<<< head
-"5	LINE	0
-	>>>>>>> feature1
-
-
-ash_profile-'  1  0  ~/.bash_profile
-i am studuej
--'  1  0  ~/.ssh/github_rsssfa
+---DEthe new issue
+---DEthe new issue
+---DE===========
+---DEstash the bug
+---DEadd a merge
+---DE===========
+---DE===========
+---DE===========
+---DE===========
+---DE===========
+---DE===========
+---DE===========
+---DE===========
+---DE===========
+---DE===========
+---DE===========
+---DE===========
+---DE===========
+---DE===========
+---DE---===========
+---===========
+---===========
+---===========
+---"4	LINE	0
+---	<<<<<<< head
+---"5	LINE	0
+---	>>>>>>> feature1
+---
+---
+---ash_profile-'  1  0  ~/.bash_profile
+---i am studuej
+----'  1  0  ~/.ssh/github_rsssfa
 -'  1  0  ~/.fFHHngbeejfju_rsa.pddddjjdubdedef
-ngg
+nfefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefefegg
 gngn
 feff
 defe
 -'  1  0  ~/test3/ddd
--'  1  0  ~/Spoon-Knife/testtttt
+-'  1  0  ~/ddedededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededdedededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededdedededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededededdededdededeeeeeeSpoon-Knife/testtttt
 -'  2  0  ~/Spoon-Knife/testtttt
 
 # History of marks within files (newest to oldest):
 
-> ~/.viminfo
+--> ~/.viminfo
 	"	1	0
 	.	45	0
 	+	45	0
